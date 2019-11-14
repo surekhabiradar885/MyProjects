@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Tanvi
+Build-Jdk: 12.0.2
+Implementation-Title: Java spring boot example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javapoint
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-ex
+ ample/
+Created-By: Maven Integration for Eclipse
+
